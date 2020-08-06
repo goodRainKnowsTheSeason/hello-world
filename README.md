@@ -1,5 +1,6 @@
-# hello-world
-this responsitory is used to learn how github works
+# leetcode 
+weekly leetcode record
 
-use git push 
-github learn
+
+
+
